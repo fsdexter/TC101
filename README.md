@@ -1,2 +1,3 @@
 # TC101
-aprendendoi TypeScript
+aprendendo TypeScript
+seguinto o cursso https://www.youtube.com/watch?v=BwuLxPH8IDs
